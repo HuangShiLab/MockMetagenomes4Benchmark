@@ -2,9 +2,11 @@
 
 ## Simulated metagenomes
 
-### * CAMl2 marine (N=10)
+### * CAMI2 marine (N = 10)
 
-### * 25 simulated microbial communities from five representative environmental habitats (gastrointestinal, oraldermal, vaginal and building)
+### * Simulated microbial communities from five representative environmental habitats (gastrointestinal, oraldermal, vaginal and building; N = 25)
+
+**Data availability:** The simulated dataset can be downloaded from https://figshare.com/projects/Challenges_in_Benchmarking_Metagenomic_Profilers/79916.
 
 ## Mock communities
 
