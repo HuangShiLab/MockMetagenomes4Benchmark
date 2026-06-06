@@ -2,13 +2,17 @@
 
 ## Simulated metagenomes
 
-### * CAMI2 marine (N = 10)
+### * CAMI2 marine (N = 10) samples used in the Sylph paper. 
 
-### * Simulated microbial communities from five representative environmental habitats (gastrointestinal, oraldermal, vaginal and building; N = 25)
+### * Simulated microbial communities from five representative environmental habitats (gastrointestinal, oraldermal, vaginal and building; N = 25) 
+** Data availability:** The simulated dataset can be downloaded from https://figshare.com/projects/Challenges_in_Benchmarking_Metagenomic_Profilers/79916.
 
-### * Simulation metagenomes for strain-level diversity profiling (e.g., Cutibacterium acnes)
+### * Simulation metagenomes for strain-level diversity profiling (e.g., Cutibacterium acnes, Staphylococcus aureus, Staphylococcus epidermidis): log-normal distributed abundance
 
-**Data availability:** The simulated dataset can be downloaded from https://figshare.com/projects/Challenges_in_Benchmarking_Metagenomic_Profilers/79916.
+Cutibacterium acnes (n=5) + Staphylococcus aureus (n=3) + Staphylococcus epidermidis (n=3)
+
+Cutibacterium acnes (n=5)
+
 
 ## Mock communities
 
