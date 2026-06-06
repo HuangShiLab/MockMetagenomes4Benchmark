@@ -6,7 +6,7 @@
 
 ### * Simulated microbial communities from five representative environmental habitats (gastrointestinal, oraldermal, vaginal and building; N = 25)
 
-### * Simulation metagenomes for strain-level diversity profiling
+### * Simulation metagenomes for strain-level diversity profiling (e.g., Cutibacterium acnes)
 
 **Data availability:** The simulated dataset can be downloaded from https://figshare.com/projects/Challenges_in_Benchmarking_Metagenomic_Profilers/79916.
 
